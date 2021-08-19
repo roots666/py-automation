@@ -7,7 +7,6 @@ git clone \
   --filter=blob:none  \
   <this_git_project_url> \
 ;
-cd aws-scripts
 
 pip3 install -r requirements.txt # better to use virtual env though 
 ```
